@@ -6,11 +6,11 @@
 - name: Python
   href: /python/
 
-- name: Androi
+- name: Android Development
   href: /android/
 
-- name: HTML
-  href: /html/
+- name: Web Development
+  href: /web/
 
 - name: Database
   href: /database/
