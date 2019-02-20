@@ -6,8 +6,8 @@
 - name: Python
   href: /python/
 
-- name: Linux
-  href: /linux/
+- name: Androi
+  href: /android/
 
 - name: HTML
   href: /html/
@@ -15,11 +15,11 @@
 - name: Database
   href: /database/
 
-- name: Mac
-  href: /mac/
+- name: Java
+  href: /java/
 
-- name: Life
-  href: /life/
+- name: Machine Learning
+  href: /machine-learning/
 
 # Don't display donation page: change donation to off at file '_config.yml'
 - name: Donate
