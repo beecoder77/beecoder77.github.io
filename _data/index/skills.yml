@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Github, Java, Python, Machine Learning, IoT, SQL, PHP, Android Development
-percentage: 80, 70, 30, 50, 50, 80, 60, 80
+aspects: Java, PHP, Laravel Framework
+percentage: 80, 70, 80
