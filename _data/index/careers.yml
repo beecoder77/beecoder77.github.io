@@ -9,3 +9,13 @@
   job:
     detail: Student
   icon: fa-plus-square
+
+- name:
+    detail: Legends Technology
+  desc:
+    detail: Backend Developer (Laravel) pada Oktober 2019 - November 2019
+  date:
+    detail: Nov. 2019, Purwokerto
+  job:
+    detail: Backend Developer
+  icon: fa-plus-square
